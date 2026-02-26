@@ -2,7 +2,7 @@
 
 A secure, browser-based communication experience built for instant rooms, clear calls, and frictionless collaboration.
 
-## معرفی محصول (فارسی)
+## معرفی 
 **هم کال ** یک راهکار تماس آنلاین سریع و ساده است که برای شروع فوری جلسه طراحی شده است.  
 کاربر فقط با ساخت یک اتاق و ارسال یک لینک می‌تواند دیگران را دعوت کند و بدون نصب ابزار اضافی، گفت‌وگو را آغاز کند.
 
@@ -37,7 +37,7 @@ A secure, browser-based communication experience built for instant rooms, clear 
 - مشاوره و گفت‌وگوی راه دور
 - دمو و پشتیبانی محصول با اشتراک صفحه
 
-## Product Overview (English)
+## Overview (English)
 **Ham Call** is a fast and lightweight online calling experience designed for instant room-based communication.  
 Users can create a room, share one link, and start collaborating immediately without extra installation.
 
